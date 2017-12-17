@@ -125,7 +125,7 @@ tema: white
  	</section>
  	<section>
  		<p>Puedo crear programas que me permitan la orquestación y la configuración automática, por lo tanto:</p>
- 		<h2>La infraestructura se puede <strong>PROGRAMAR</strong></h2>.
+ 		<h2>La infraestructura se puede <strong>PROGRAMAR</strong></h2>
  	</section>
 	<section>
 		<h3>¿No hablamos de lo mismo?</h3>
