@@ -38,10 +38,7 @@ tema: white
 	</section>
 </section>
 <section>
-	<section>
-		<h3>Escenarios típicos</h3>
-		<p>Pongamos algunos ejemplos donde es necesaria la automatización de la provisión de infraestructura (orquestación) y su configuración.
-	</section>
+	
 	<section>
 		<h3>Recursos elásticos</h3>
 		<ul>
