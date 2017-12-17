@@ -1,2 +1,3 @@
-# Presentacion-ual17
-Presentación y charla en la Universidad de Almeria (UAL) Febrero 2017
+# Presentacion configuración automática
+
+[http://josedom24.github.io/presentacion-conf-automatica](http://josedom24.github.io/presentacion-conf-automatica)
