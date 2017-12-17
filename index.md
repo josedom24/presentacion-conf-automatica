@@ -40,7 +40,7 @@ tema: white
 <section>
 	<section>
 		<h3>Escenarios típicos</h3>
-		<p>Pongamos algunos ejemplos donde es necesaria la automatización de la provisión de infraestructura (orquestación) y su configuración.</p>
+		<p>Pongamos algunos ejemplos donde es necesaria la automatización de la orquestación de infraestructura y su configuración.</p>
 	</section>
 	<section>
 		<h3>Recursos elásticos</h3>
@@ -108,7 +108,7 @@ tema: white
 <!-- </section> -->
 <section>
 	<section>
-		<h3>¿Qué programamos?</h3>
+		<h3>Orquestación</h3>
 		<ul>
 		<li>Escenarios: MV, redes o almacenamiento</li>
 		<li>Configuración de sistemas o aplicaciones</li>
@@ -116,6 +116,17 @@ tema: white
 		<li>Respuestas ante eventos</li>
 		</ul>
 	</section>
+	<section> -->
+ 		<h4>Automatización de la configuración</h4>
+     	<ul>
+     		<li>La automatización es cada vez más habitual en entornos de infraestructura clásica (máquinas físicas o virtuales)</li>
+     		<li>La automatización es <strong>obligatoria</strong> en entornos de IaaS donde los elementos se crean y eliminan a demanda de forma muy rápida</li>
+   		</ul>
+ 	</section>
+ 	<section>
+ 		<h3>Puedo crear programas que me permitan la orquestación y la configuración automática, por lo tanto:</h3>
+ 		<h2>La infraestructura se puede <strong>PROGRAMAR</strong></h2>.
+ 	</section>
 	<section>
 		<h3>¿No hablamos de lo mismo?</h3>
 		<p><em>¿Hay diferencias entre crear un escenario y configurar el software de la infraestructura creada?</em></p>
