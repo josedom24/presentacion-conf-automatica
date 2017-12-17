@@ -25,44 +25,23 @@ tema: white
       		<li>Máquinas virtuales</li>
       		<li>Infraestructura en la nube</li>
 		</ol>
-		<p>El cloud computing o computacion en la nube ofrece servicios de forma ágil y sencilla a través de la red.</p>
 	</section>
 	<section>
-	</section>
-	<section>
-		<h3>La nube</h3>
+		<p>El cloud computing o computación en la nube ofrece servicios de forma ágil y sencilla a través de la red. Algunas características:</p>
 		<ul>
-		<li>Software as a Service (SaaS)</li>
-		<li>Para todo el mundo</li>
-		<li>Principalmente en nube pública</li>
-		<li>Programable: APIs, APIs, APIs</li>
-		<li>Los datos ... ¡ay los datos!</li>
+		 	<li>Servicio disponible de forma automática y a demanda</li>
+		 	<li>Accesible a través de la red</li>
+            <li>Elasticidad</li>
+			<li>Pago por uso</li>
 		</ul>
+		<p>Estas características nos obligan a cambiar nuestra forma de crear/eliminar infraestructura y de configurar los servicios que ofrecen.</p>
 	</section>
-	<section>
-		<h3>Infraestructura en la nube</h3>
-		<ul>
-		<li>Infrastructure as a Service (IaaS)</li>
-		<li>Máquinas, redes y almacenamiento</li>
-		<li>Y además ... recursos adicionales:
-		<p>DNSaaS, LBaaS, DBaaS, ...</p></li>
-		<li>¿Programable?</li>
-		</ul>
-	</section>
+	
 </section>
 <section>
 	<section>
-		<h3>DevOps</h3>
-		<ul>
-		<li><strong>Conflicto:</strong>Tradicionalmente desarrollo y sistemas con objetivos y responsabilidades diferentes</li>
-		<li>El objetivo debería ser común</li>
-		<li>¿Cómo solucionarlo?</li>
-		<ul>
-			<li>Mismas herramientas</li>
-			<li>Extender buenas prácticas de desarrollo a sistemas: De integración continua a entrega continua o a despliegue continuo</li>
-		</ul>
-		<li><strong>Escenarios replicables, automatización de la configuración</strong></li>
-		</ul>
+		<h3>Escenarios típicos</h3>
+		<p>Pongamos algunos ejemplos donde es necesaria la automatización de la provisión de infraestructura (orquestación) y śu configuración.
 	</section>
 	<section>
 		<h3>Recursos elásticos</h3>
@@ -107,17 +86,7 @@ tema: white
 		<li>¿Infraestructura?</li>
 		</ul>
 	</section>
-	<section>
-		<h3>Aplicación nativa cloud</h3>
-		<ul>
-		<li>Habitualmente la aplicación ignora la infraestructura</li>
-		<li>¿Qué podría cambiarse?:
-		<ul>
-		<li>Aplicaciones resilientes</li>		
-		<li>Infraestructura dinámica autogestionada</li>
-		</ul></li>
-		</ul>
-	</section>
+	
 </section>
 <!-- 	<section> -->
 <!-- 		<h4>Automatización de la configuración</h4> -->
@@ -150,7 +119,7 @@ tema: white
 	</section>
 	<section>
 		<h3>¿No hablamos de lo mismo?</h3>
-		<p><em>¿Hay diferencias entre crear un escenario y configurar el software de la infaestrucura creada?</em></p>
+		<p><em>¿Hay diferencias entre crear un escenario y configurar el software de la infraestructura creada?</em></p>
 	<!-- <center><h1>NO HAY DIFERENCIAS!!!</h1></center> -->
 	</section>
 </section>
