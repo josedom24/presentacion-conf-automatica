@@ -5,7 +5,6 @@ tema: white
 ---
 <section>
 	<h2>Configuración automática de infraestructura</h2>
-	
 		<small>
 			<a href="http://www.josedomingo.org">José Domingo Muñoz Rodríguez</a>
 		</small>
@@ -17,8 +16,18 @@ tema: white
 </section>
 <section>
 	<section>
+		<h2>Infraestructura: Evolución</h2>
+    	<h3>¿A qué llamamos infraestructura?</h3>
+    	<p>Equipos para procesamiento, conexión y almacenamiento de datos</p>
+	    <h3>Evolución</h3>
+    	<ol>
+      		<li>Equipos físicos</li>
+      		<li>Máquinas virtuales</li>
+      		<li>Infraestructura en la nube</li>
+		</ol>
 		<p>El cloud computing o computacion en la nube ofrece servicios de forma ágil y sencilla a través de la red.</p>
-		<h4>¿Qué servicios podemos obtener?</h4>
+	</section>
+	<section>
 	</section>
 	<section>
 		<h3>La nube</h3>
