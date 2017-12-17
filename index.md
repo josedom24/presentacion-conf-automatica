@@ -36,12 +36,11 @@ tema: white
 		</ul>
 		<p>Estas características nos obligan a cambiar nuestra forma de crear/eliminar infraestructura y de configurar los servicios que ofrecen.</p>
 	</section>
-	
 </section>
 <section>
 	<section>
 		<h3>Escenarios típicos</h3>
-		<p>Pongamos algunos ejemplos donde es necesaria la automatización de la provisión de infraestructura (orquestación) y śu configuración.
+		<p>Pongamos algunos ejemplos donde es necesaria la automatización de la provisión de infraestructura (orquestación) y su configuración.
 	</section>
 	<section>
 		<h3>Recursos elásticos</h3>
