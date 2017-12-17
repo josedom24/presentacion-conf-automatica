@@ -116,7 +116,7 @@ tema: white
 		<li>Respuestas ante eventos</li>
 		</ul>
 	</section>
-	<section> -->
+	<section> 
  		<h4>Automatización de la configuración</h4>
      	<ul>
      		<li>La automatización es cada vez más habitual en entornos de infraestructura clásica (máquinas físicas o virtuales)</li>
